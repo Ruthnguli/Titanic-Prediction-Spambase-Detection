@@ -4,7 +4,7 @@
 The RMS Titanic was a British passenger liner that sank in the North Atlantic Ocean on 15 April 1912, after it collided with an iceberg during its maiden voyage from Southampton to New York City. There were an estimated 2,224 passengers and crew aboard the ship, and more than 1,500 died, making it one of the deadliest commercial peacetime maritime disasters in modern history.
 
 # Objective
-Predict the survival status of individual passengers on the titanic accident.
+To predict the survival status of individual passengers on the titanic accident.
 
 # Aproach 
 Randomly partition each dataset into two parts i.e 80 - 20 sets.
@@ -30,7 +30,7 @@ Dataset 1 Source: [Train Dataset Source: Link (Links to an external site.), Test
 Spam email is unsolicited and unwanted junk email sent out in bulk to an indiscriminate recipient list. Typically, spam is sent for commercial purposes.
 
 # objective
-Predict if the message send is spam or not spam.
+To predict if the message send is spam or not spam.
 
 # Approach
 Randomly partition each dataset into two parts i.e 80 - 20 sets.
